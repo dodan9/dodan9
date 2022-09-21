@@ -1,6 +1,6 @@
 ### DODAN9
 
-https://dodan9.github.io/dodan9.io/
+https://github.com/dodan9/dodan9.io
 
 
 <!--
